@@ -1,0 +1,6 @@
+Log ID,Person ID,Full Name,Department,Date,Time In,Attendance Status,Match Confidence (%),Marked Via
+34,TEST_EMP_99,Alice Smith,Engineering,2026-08-13,12:04:31 PM,Late,92.5,AUTO_FACE_RECOGNITION
+31,c4s17811,Sathish,bsc cs (ai),2026-08-13,10:34:47 AM,Late,69.9,AUTO_FACE_RECOGNITION
+30,c4s17810,Harish,bsc cs (ai),2026-08-13,10:30:06 AM,Late,76.5,AUTO_FACE_RECOGNITION
+29,c4s17182,bala,computer science,2026-08-13,10:27:34 AM,Late,60.9,AUTO_FACE_RECOGNITION
+28,c4s17182,bala,computer science,2026-08-10,02:47:56 PM,Late,67.4,AUTO_FACE_RECOGNITION

@@ -3,12 +3,14 @@
     "1": "c4s17182",
     "2": "c4s17810",
     "3": "c4s17811",
-    "4": "TEST_FACE_01"
+    "4": "TEST_FACE_01",
+    "5": "VERIF_FIX_01"
   },
   "person_to_id": {
     "c4s17182": 1,
     "c4s17810": 2,
     "c4s17811": 3,
-    "TEST_FACE_01": 4
+    "TEST_FACE_01": 4,
+    "VERIF_FIX_01": 5
   }
 }
