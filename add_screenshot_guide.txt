@@ -1,0 +1,15 @@
+To make the PDF more presentable for viva:
+
+1. Take screenshots of these app views:
+   - Dashboard
+   - Live Scanner
+   - Enrollment tab
+   - Attendance Logs tab
+
+2. Save them in the project folder as:
+   - dashboard.png
+   - scanner.png
+   - enrollment.png
+   - logs.png
+
+3. If you want, I can update the PDF to include these screenshots automatically.

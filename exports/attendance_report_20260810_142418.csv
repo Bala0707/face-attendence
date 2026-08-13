@@ -1,0 +1,2 @@
+Log ID,Person ID,Full Name,Department,Date,Time In,Time Out,Attendance Status,Match Confidence (%),Marked Via
+21,TEST_EMP_99,Alice Smith,Engineering,2026-08-10,14:24:17,--,Late,92.5,AUTO_FACE_RECOGNITION

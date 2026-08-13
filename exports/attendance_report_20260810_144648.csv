@@ -1,0 +1,3 @@
+Log ID,Person ID,Full Name,Department,Date,Time In,Attendance Status,Match Confidence (%),Marked Via
+24,c4s17182,bala,computer science,2026-08-10,14:41:27,Late,61.1,AUTO_FACE_RECOGNITION
+26,TEST_EMP_99,Alice Smith,Engineering,2026-08-10,02:46:48 PM,Late,92.5,AUTO_FACE_RECOGNITION
